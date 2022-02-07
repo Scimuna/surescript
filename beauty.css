@@ -1,0 +1,62 @@
+	@font-face{
+		font-family:muna;
+		src:url(fonthead/rakas.ttf);
+	}
+
+
+#footer{
+	background-color:#B9D2B1;
+}
+#navcolor{
+	background-color:#D7E8BA;
+	
+}
+.munashop{
+	font-family:muna;
+	
+}
+#notice{
+	font-family:muna;
+	color:red;
+	font-size:25px;
+}
+.bigi{
+	font-size:16px;
+	
+}
+.headings{
+	color:#00008b;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+}
+#purchase{
+	width:50%;
+}
+.imagediv{
+	box-shadow:2px 2px 3px;
+}
+.money{
+	text-align:center;
+}
+
+#quant{
+	box-shadow:3px 3px 3px;
+}
+.seperator{
+	
+	min-height:65px;
+}
+.quantalign{
+	text-align:center;
+}
+#message{
+	min-height:10px;
+	font-family:muna;
+}
+.ialigner{
+	text-align:center;
+}
+.rara{
+	font-family:muna;
+}
